@@ -1,3 +1,4 @@
  # **<h1 align="center">UNITEC</h1>**
-## **Campus Querétaro**
-## **Interfaces Y Perifericos para Robots UNITEC**
+## **<h1 align="center"> Campus Querétaro
+    Interfaces Y Periféricos Para robots
+</h1>**
